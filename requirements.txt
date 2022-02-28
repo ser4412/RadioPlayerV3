@@ -8,6 +8,6 @@ ffmpeg-python
 python-dotenv
 youtube_search
 youtube_search_python
-git+https://github.com/ser4412/pytgcalls
+pytgcalls==3.0.0.dev21
 git+https://github.com/asmsafone/downloader
 git+https://github.com/asmsafone/pyrogram@master
